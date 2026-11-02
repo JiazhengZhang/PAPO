@@ -109,6 +109,9 @@ ENV/
 # Mac
 .DS_Store
 
+# Local paper draft; do not publish with the repository
+/paper/
+
 # output logs
 tests/e2e/toy_examples/deepspeed/synchronous/output.txt
 
