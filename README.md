@@ -9,7 +9,7 @@
 ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS_2026-Poster-6847B8?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-Apache_2.0-00897B?style=for-the-badge)](LICENSE)
 
-[Results](#results) · [Usage](#usage) · [Method](docs/method.md) · [Citation](#citation)
+[Paper](https://arxiv.org/pdf/2605.11775) · [Results](#results) · [Usage](#usage) · [Method](docs/method.md) · [Citation](#citation)
 
 </div>
 
